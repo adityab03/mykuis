@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "351557828832",
+    "firebase_url": "https://mykuis-faa53.firebaseio.com",
+    "project_id": "mykuis-faa53",
+    "storage_bucket": "mykuis-faa53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351557828832:android:3441c77282dee738",
+        "android_client_info": {
+          "package_name": "com.dicoding.assosiate.mykuis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351557828832-sljndrnul0u75uf2v3a70q7uddp4ck0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbPHWDrA4n2t6zMP_hWnSH2DsgPNAcuZU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
